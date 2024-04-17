@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "398560743922",
+    "project_id": "milktea-13bba",
+    "storage_bucket": "milktea-13bba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398560743922:android:78cd01d1f438764dfedb6b",
+        "android_client_info": {
+          "package_name": "com.example.milktea"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV6oLODnnRCLTi6VXmU5w0TP-hMyrWETY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
